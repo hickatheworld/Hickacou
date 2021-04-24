@@ -4,9 +4,9 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Hickacou&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hickatheworld&show_icons=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hickacou&layout=compact&hide=php" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickatheworld&layout=compact&hide=php" />
       </td>
 </p>
